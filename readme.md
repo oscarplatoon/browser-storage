@@ -18,9 +18,9 @@ if i don't have their name
 When you code this locally, bring the JS file into the HTML file instead of putting it directly into the HTML file.
 
 Some things to think through and to guide your development:
-1. Do you have their name already in local storage?
-2. What would my function look like in JS to render their name?
-3. How would I set their name if they didn't have one?
+* Do you have their name already in local storage?
+* What would my function look like in JS to render their name?
+* How would I set their name if they didn't have one?
 
 # Release 2 - Refactor
 I bet you can clean this up!
